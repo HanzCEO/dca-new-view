@@ -36,5 +36,6 @@ Examples of rejected conferences:
 * Make sure the PR title is in the format of `Add Conference Name`
 * Check your spelling and grammar
 * Remove any trailing whitespace
+* Tab size is 4 spaces
 
 Thanks! ❤️
